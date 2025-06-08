@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>beststats</name>
+    <displayName><![CDATA[Best Stats]]></displayName>
+    <version><![CDATA[1.0.4]]></version>
+    <description><![CDATA[Moduł do wyświetlania statystyk sprzedaży.]]></description>
+    <author><![CDATA[BESTLAB Ernest]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[Czy na pewno chcesz odinstalować ten moduł?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

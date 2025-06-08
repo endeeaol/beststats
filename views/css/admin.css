@@ -1,0 +1,66 @@
+.beststats .card {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+	border:2px solid red;
+}
+
+.beststats .table-heroes{
+	max-width:700px !important;
+}
+
+.beststats .card-body {
+    background-color: #ffffff;
+ 	padding:10px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	max-width:800px !important;
+}
+
+
+
+.beststats table td:first-child {
+    display: flex;
+    align-items: center;
+}
+
+.beststats .material-icons {
+    margin-right: 8px;
+    flex-shrink: 0;
+}
+
+.beststats .table-heroes {
+    margin-top: 1.5rem;
+}
+
+.beststats .table-heroes th {
+    background-color: #e9ecef;
+}
+
+.beststats .top-customer {
+    font-weight: bold;
+}
+
+.beststats .top-customer td:first-child::before {
+    content: '🏆';
+    margin-right: 8px;
+    font-size: 1.2em;
+    line-height: 1;
+}
+div.beststats table td{
+	padding:10px !important;
+}
+div.beststats table td > *{
+	display: flex;
+	align-items:center;
+}
+ div.beststats h4.card-title{
+	 color: #000000;
+	 font-size:17px;
+	 background-color:transparent;
+	 margin:50px 0 10px 10px;
+	 margin:50px 0 10px 10px;
+ }
+ div.beststats  div.card-header{
+	 background-color:transparent !important;
+ }
